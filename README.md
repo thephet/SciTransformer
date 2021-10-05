@@ -1,5 +1,10 @@
 # Adapting the Transformer architecture to model scientific real-time experimental data.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1437098/135989873-f87dc36f-4dc9-4c88-a6da-1299c631a1e9.jpeg" width=60% height=60%>
+</p>
+
+
 This code implements a vanilla Transformer as seen in "Attention is all you need".
 It has some modifications so that it can work with sequential scientific data. It is better to check the paper I wrote about this work. You can check it [here](https://www.juanma.io/scitrans.pdf). It has been accepted in a conference so I will soon update the proper link to the conference and also an arxiv version of it.
 
