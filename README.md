@@ -1,8 +1,8 @@
 # Adapting the Transformer architecture to model scientific real-time experimental data.
 
-![In this research (A) Transformer encoder will be used to process user-defined variables, while the decoder will be used to generate scientific data. The main variations over the original Transformer (C) are the inclusion of an encoder reconstruction layer.](https://user-images.githubusercontent.com/1437098/135989873-f87dc36f-4dc9-4c88-a6da-1299c631a1e9.jpeg)
-
-<img src="https://user-images.githubusercontent.com/1437098/135989873-f87dc36f-4dc9-4c88-a6da-1299c631a1e9.jpeg" width=50% height=50%>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1437098/135989873-f87dc36f-4dc9-4c88-a6da-1299c631a1e9.jpeg" width=60% height=60%>
+</p>
 
 
 This code implements a vanilla Transformer as seen in "Attention is all you need".
